@@ -1,0 +1,8 @@
+Model Used: DALL-E chatgpt
+
+Prompt used for Image 1:
+The text should be Enigma
+make another similar but more dark
+
+Prompt used for Image 2:
+Generate a spooky logo based on the one I gave
