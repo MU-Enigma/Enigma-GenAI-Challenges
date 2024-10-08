@@ -1,0 +1,4 @@
+AI model used is Bing AI (made by Microsoft)
+
+Exact prompt used to generate the logo is:
+"Create a Spooky logo for a computer Science club called "ENIGMA" without mentioning Computer science, Simple elegant"
