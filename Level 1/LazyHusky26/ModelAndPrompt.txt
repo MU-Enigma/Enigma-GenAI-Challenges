@@ -1,0 +1,5 @@
+Model: AnythingV5Ink_ink (Using ForgeUI)
+
+Prompt: horror \(theme\), bare tree, forest, pumpkin, fog, bat \(animal\), night
+
+Negative prompt: SimpleNegative_AnimeV1,
