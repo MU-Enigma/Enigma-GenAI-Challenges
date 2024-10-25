@@ -1,0 +1,10 @@
+I went to Gen AI ask asked it to complete the photo I randomly found on the net 
+ source https://x.com/kaushikcbasu/status/1377077186696511488
+
+prompt:- 
+I want u to generate a photo where you add on the image a woman face characteristics not sample this and make a new one
+
+
+Result is the photo in the file
+
+and Gemini generated a photo using this 
