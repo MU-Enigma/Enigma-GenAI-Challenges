@@ -1,0 +1,2 @@
+AI Model Used: DALL·E
+Prompt: <I Uploaded the Regular Enigma Logo> Create a Spooky version of the image. Add some Halloween Flair to it.
