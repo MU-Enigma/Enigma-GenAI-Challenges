@@ -1,0 +1,7 @@
+Roll no.:- SE24UCSE082
+AI model used is playground ai.
+Prompts used:
+1. Generate a Halloween version of the enigma logo(uploaded the said logo to the ai). It generated a similar logo to the one submitted but           spelled enigma wrong.
+2. Asked it to fix the spelling and it generated the submitted logo. It generated a generic Halloween themed logo.
+3.Applied the cyber eye aesthetic theme to the generated logo.
+

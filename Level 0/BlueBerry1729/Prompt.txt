@@ -1,0 +1,2 @@
+Model used: Dall.E
+Promt: <uploaded the original enigma logo> create a spooky version of the image i uploaded. Add some halloween theme to it
