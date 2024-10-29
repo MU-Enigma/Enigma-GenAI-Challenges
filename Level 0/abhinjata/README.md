@@ -9,3 +9,5 @@
 
 ### Image 1: 
 
+![Redesigned Logo](Level0/abhinjata/GenAILeve0/RedesignLogo1.jpeg)
+
