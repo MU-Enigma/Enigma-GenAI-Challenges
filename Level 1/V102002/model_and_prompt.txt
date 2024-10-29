@@ -1,6 +1,3 @@
-Model Used: RunawayMl and chatgpt
+Model Used: RunawayML
 Prompts used: 
-	Create image of a forest (chatgpt)
-	Brushes
-	Table with a cat on top covering a 	corner of the painting
-	Color Paint
+	there is a spooky forest with fog and 	eyes of scary creatures glowing
