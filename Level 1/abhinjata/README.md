@@ -13,4 +13,15 @@ Process: Using Stable Diffusion and Stability Matrix WebUI using the Flux 1 mode
 - The main idea behind this challenge is the aspect of "filling a missing part" which is indirectly asking to tinker with "inpaint" in GenAI/Stable Diffusion.
 - Using inpaint and specific prompts, I added mysterious metaphysical creatures entering the haunted house.
 
-<img src="https://github.com/abhinjata/Enigma-GenAI-Challenges/blob/abhinjata-patch-2/Level%200/abhinjata/GenAI%20Level%200/RedesignLogo1.jpeg?raw=true" alt="Redesigned Logo" width="350" />
+### Image 1: 
+<img src="https://github.com/abhinjata/Enigma-GenAI-Challenges/blob/abhinjata-patch-2/Level%201/abhinjata/GenAILevel1/Img1.jpeg?raw=true" alt="Redesigned Logo" width="350" />
+<img src="https://github.com/abhinjata/Enigma-GenAI-Challenges/blob/abhinjata-patch-2/Level%201/abhinjata/GenAILevel1/SDImg1.jpeg?raw=true" alt="Redesigned Logo" width="800" />
+
+Prompts: witch hat, witch, horror, ghost, spirit, spirited away (the ghibli studios movie in Japanese)
+
+### Image 2: 
+
+<img src="https://github.com/abhinjata/Enigma-GenAI-Challenges/blob/abhinjata-patch-2/Level%201/abhinjata/GenAILevel1/Img2.jpeg?raw=true" alt="Redesigned Logo" width="350" />
+<img src="https://github.com/abhinjata/Enigma-GenAI-Challenges/blob/abhinjata-patch-2/Level%201/abhinjata/GenAILevel1/SDImg2.jpeg?raw=true" alt="Redesigned Logo" width="800" />
+
+Prompts: witch hat, witch, horror, ghost, spirit, spirited away (the ghibli studios movie in Japanese)
