@@ -1,0 +1,6 @@
+Model Used: RunawayMl and chatgpt
+Prompts used: 
+	Create image of a forest (chatgpt)
+	Brushes
+	Table with a cat on top covering a 	corner of the painting
+	Color Paint
