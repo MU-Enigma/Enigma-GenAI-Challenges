@@ -1,0 +1,9 @@
+Level 1 - Generate the Missing Part of the Image (PS 1.1)
+
+The AI model/tool used:
+Adobe Firefly.
+
+The exact prompt that you used to generate the missing part:
+Expand the image by generating the missing parts. Please let the theme remain consistent throughout the extended parts. Halloween, dry shedded trees, pumpkins, bats, moonlight, old abandoned/haunted castle, fence surrounding the castle, graveyard.
+
+Thanks.
