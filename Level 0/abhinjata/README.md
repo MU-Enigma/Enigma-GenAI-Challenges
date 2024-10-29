@@ -7,7 +7,23 @@
 
 ## **Submission** 
 
+Using Stable Diffiusion's Web UI, Stability Matrix, and the Flux 1 Model, redesigned the Enigma logo. 
+
 ### Image 1: 
 
-![Redesigned Logo](Level0/abhinjata/GenAILeve0/RedesignLogo1.jpeg)
+- Model used: Flux 1  
+- Prompts Applied: Horror, Blood, Sharp Teeth, Evil Smile, Red
 
+<img src="https://github.com/abhinjata/Enigma-GenAI-Challenges/blob/abhinjata-patch-1/Level%200/abhinjata/GenAI%20Level%200/RedesignLogo1.jpeg?raw=true" alt="Redesigned Logo" width="350" />
+
+
+<img src="https://github.com/abhinjata/Enigma-GenAI-Challenges/blob/abhinjata-patch-1/Level%200/abhinjata/GenAI%20Level%200/SDRedesignProcessLogo1.jpeg?raw=true" alt="Redesigned Logo" width="800" />
+
+### Image 2: 
+
+- Model used: Flux 1
+- Prompts Applied: Horror, Blood, Evil, Red, Satanic, Cursed
+
+<img src="https://github.com/abhinjata/Enigma-GenAI-Challenges/blob/abhinjata-patch-1/Level%200/abhinjata/GenAI%20Level%200/RedesignLogo2.jpeg?raw=true" alt="Redesigned Logo" width="350" />
+
+<img src="https://github.com/abhinjata/Enigma-GenAI-Challenges/blob/abhinjata-patch-1/Level%200/abhinjata/GenAI%20Level%200/SDRedesignProcessLogo2.jpeg?raw=true" alt="Redesigned Logo" width="800" />
