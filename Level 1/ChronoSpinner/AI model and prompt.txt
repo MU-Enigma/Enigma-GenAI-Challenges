@@ -1,0 +1,2 @@
+AI model:- YouCam editor
+Prompt :-No prompt since we can extend by dragging the image size.
