@@ -1,0 +1,4 @@
+AI model used is ChatGPT
+
+The exact prompt used to generate the logo is:
+"change the background to orange and give it a slightly spooky theme"
