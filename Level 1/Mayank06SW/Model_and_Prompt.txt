@@ -1,0 +1,2 @@
+AI Model Used: DALL·E
+Prompt: <I Uploaded the Given Incomplete Image> Fill in the missing part of the image. Make the connection seamless and integrate it into the original image. The new part of the image should be in the same style as the original image. The new image should be an extension into the surroundings of the original image. 
