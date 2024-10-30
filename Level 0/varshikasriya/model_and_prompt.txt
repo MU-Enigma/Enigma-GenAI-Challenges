@@ -1,0 +1,7 @@
+Level 0: Redesign the Enigma Logo (PS 0.1)
+
+The AI model/tool used: PicLumen.
+The exact propmt that I used to generate the logo: 
+The text in the image is 'ENIGMA', create a spooky version of the entire image and add halloween theme to it.  Change the background to something spooky/dark. Add glow to the letters. Make sure the letters are placed correctly 'ENIGMA'. 
+
+Thanks.
