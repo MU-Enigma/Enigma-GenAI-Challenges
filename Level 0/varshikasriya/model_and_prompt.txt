@@ -1,9 +1,0 @@
-Level 0 - Make a Spooky-themed Enigma Logo Using GenAI
-
-The AI model/tool used: DALL-E (Open AI).
-
-Exact prompt used: 
-This is the logo of my college's computer science club. Make this logo look super spooky, yet very cool (in a digital way). Cool tones are preferred to hot ones. Give it a matrix(movie) look, a little bit. Also add halloween theme in some way. Keep it clean and the letters are 'enigma'.
-
-Thanks.
-
