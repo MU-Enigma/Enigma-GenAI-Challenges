@@ -5,7 +5,7 @@ Problem Statement:
 
 Generate a redesigned logo for Enigma using any AI-powered image generation tool.
 Submission
-Using meta.ai 
+Using chat gpt
 prompt:
-make this logo Halloween themed and super spooky, it says 'ENIGMA'
-MAKE IT COMPUTER SCIENCE RELATED!
+make the white part black and the black part red
+
