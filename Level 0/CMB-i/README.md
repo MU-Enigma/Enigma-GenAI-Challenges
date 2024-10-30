@@ -13,4 +13,4 @@ prompt:
 make the white part black and the black part red
 
 Although GPT failed to swap the black text into red, I believe it adds to the creative effect
-I was going for a bloody image, however i believe this looks more spooky than my previous ides
+I was going for a bloody image, however i believe this looks more spooky than my previous idea
