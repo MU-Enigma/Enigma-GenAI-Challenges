@@ -1,0 +1,3 @@
+Model Used: RunawayML
+Prompts used: 
+	there is a spooky forest with fog and 	eyes of scary creatures glowing
