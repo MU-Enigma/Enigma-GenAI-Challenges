@@ -1,0 +1,2 @@
+AI Model Used: pixelcut.ai
+Prompt: <I Uploaded the Given Incomplete Image> Dragged the corners of the Image where I wanted to Extend the Image.  
