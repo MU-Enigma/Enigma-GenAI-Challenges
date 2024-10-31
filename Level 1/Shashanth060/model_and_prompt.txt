@@ -1,0 +1,2 @@
+AI model/tool used: pixelcut.ai
+Prompt : No prompt was used, the image expanded as I changed the dimensions 
