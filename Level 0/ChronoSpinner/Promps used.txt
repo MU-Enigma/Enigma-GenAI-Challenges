@@ -1,0 +1,7 @@
+The AI model is DALL-E
+
+Promps:-
+1. (giving the original enigma logo as reference)
+   Make a simple logo using this this as reference but make it spooky using bats and skeletons
+2. (There was a spelling mistake therefore)
+   the text is supposed to be ENIGMA where I is styled as ./
