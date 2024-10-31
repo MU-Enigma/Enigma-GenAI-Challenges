@@ -1,0 +1,7 @@
+Model - prefectPonyXL_v3 (on ForgeUI)
+seed - 2013414004
+Positive prompt -gate, ghost, ghost costume, glowing, glowing eyes, grave, graveyard, halloween, halloween bucket, halloween costume, happy halloween, mummy, mummy costume, night, night sky, pennant, pikachu, pumpkin, pumpkin hair ornament, pumpkin hat, skeleton, skull, sky, spider, spider web, spider web print, spirit, tombstone, tower, town, tree, trick or treat, trident, vampire, vampire , castle, vampire, bandages, eyepatch, zombie, zombie rising from the ground, bat \(animal\),
+
+Negative prompt - badpic,  By bad artist -neg
+
+Script used - Outpaiting mk2
