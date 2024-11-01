@@ -1,0 +1,12 @@
+Logo1:
+
+Prompt - horror \(theme\), evil smile, 1girl, blood, dark aura,
+
+Model - AnythingV5Ink_ink
+
+
+Logo2:
+
+Prompt - "EN./GMA" written in a bloody font, halloween themed icon, blood, skulls, blood drops, girl in background, blood forming letters, evil smile
+
+Model - Flux_Dev
