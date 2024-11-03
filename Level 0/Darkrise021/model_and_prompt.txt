@@ -1,0 +1,7 @@
+Task Overview: Create a Spooky-Themed Enigma Logo Using Generative AI
+
+Objective: Design a logo that embodies a spooky theme of the Enigma logo, utilizing generative AI tools for creation.
+
+Prompt for Image Generation: 
+
+"Create a logo for 'EN./GMA' with a dark, haunting aesthetic. Use a palette of black, deep purples highlights. Style the 'EN./GMA' text in a gothic font with sharp, angular edges and a dripping effect to evoke a sense of mystery. Incorporate elements like bats, cobwebs, and ghostly silhouettes around the text to enhance the eerie vibe. Subtly weave in tech-inspired visuals, such as circuit patterns and binary code, fading into the background shadows. Place a computer screen behind the text, blending into the design to add a sinister, cyber-horror feel."
